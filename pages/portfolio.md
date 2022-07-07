@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Portfolio
 category: portfolio
 permalink: /portfolio
